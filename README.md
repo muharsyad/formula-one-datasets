@@ -150,7 +150,7 @@ The repository includes the following CSV files:
 - To use these datasets, simply clone the repository and load the CSV files into your preferred data analysis tool (e.g., Python with pandas, R, Excel, etc.).
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/muharsyad/formula-one-datasets.git
 ```
 - The dataset can be used for various Formula 1 data analysis tasks, including race predictions, performance analysis, and statistical insights.
 - Each CSV file can be loaded into Python using pandas:
